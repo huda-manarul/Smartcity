@@ -51,6 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'smartcity';
 $route['pertamanan'] = 'pertamanan';
+$route['admin'] = 'admin';
 $route['pengelolaansampah'] = 'pengelolaansampah';
 
 $route['404_override'] = '';
